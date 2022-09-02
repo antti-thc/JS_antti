@@ -1,1 +1,1 @@
-This is Laurea JS course file
+This is Laurea JS course folder
